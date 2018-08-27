@@ -43,7 +43,7 @@
   ],
   "binary": {
     "module_name": "node_aead_crypto",
-    "module_path": "./build/{configuration}/{node_abi}-{platform}-{arch}/",
+    "module_path": "./build/{configuration}/electron-v2.0-{platform}-{arch}/",
     "package_name": "{node_abi}-{platform}-{arch}.tar.gz",
     "host": "https://github.com/AlCalzone/node-aead-crypto/releases/download/",
     "remote_path": "v{version}"
